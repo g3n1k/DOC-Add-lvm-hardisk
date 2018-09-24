@@ -9,7 +9,9 @@ this using debian 8, with lvm default in installation
 
 ## 1. fdisk show new disk
 this show  the new pyhsical disk read by computer  
-```` $ fdisk -l ````
+```` 
+$ fdisk -l 
+````
 ![alt text](img/12-fdisk-show-raw-partition.png "the new disk read by computer")
 
 ## 2. fdisk create new partition
